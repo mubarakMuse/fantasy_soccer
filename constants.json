@@ -1,0 +1,17 @@
+{
+  "errors": {
+    "USER_NOT_FOUND": "User not Found",
+    "PLAYER_NOT_FOUND": "Player Not found",
+    "TEAM_NOT_FOUND": "Team not found",
+    "DENIED_PLAYER_EDIT": "You are only allowed to edit your own players",
+    "DENIED_TEAM_EDIT": "You are only allowed to edit your own teasm",
+    "DENIED_TEAM_EDIT_REQ": "A team's name and country can only be edited",
+    "DENIED_PLAYER_EDIT_REQ": "A player's first name, last name and country can only be edited",
+    "DENIED_PLAYER_SELL": "You can only sell your own players",
+    "DENIED_PLAYER_BUY": "You can't buy your own player",
+    "PLAYER_ACTIVE_ON_TRANSFER": "This Player is already on the transfer market",
+    "PLAYER_INACTIVE_ON_TRANSFER": "The player is not active on the transfer market",
+    "INSUFFICIENT_FUNDS": "Your team can't afford to buy this player",
+    "INVALID_CREDENTIALS": "invalid login credentials"
+  }
+}
